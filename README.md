@@ -62,7 +62,7 @@ Cada tarea indica el número de días que invertiremos en el aprendizaje y desar
 
 **El campo customerId damos por supuesto que van a tener una longitud de 9 dígitos numéricos. (No hace falta controlarlo en el código ni a nivel de base de datos).**
 
-**Tarea 3: día 6**
+## Tarea 3: día 6
 
 1.  Crear los siguientes controladores haciendo uso de Lombok.
     a. Obtener información de un usuario. Método GET, como parámetro de entrada en la URL el {customerId}. Devuelve un objeto Customer.
@@ -90,10 +90,10 @@ Cada tarea indica el número de días que invertiremos en el aprendizaje y desar
 
 ## Tarea 6: dia 10 y dia 11
 
-1.  Crear un nuevo microservicio para toda la funcionalidad de payments (arquitectura MVC).
-    a. Listado de todos los pagos de un cliente.
-    b. Update de un pago.
-    c. Inserción de un nuevo pago.
+1. Crear un nuevo microservicio para toda la funcionalidad de payments (arquitectura MVC). 
+   1. Listado de todos los pagos de un cliente. 
+   2. Update de un pago. 
+   3. Inserción de un nuevo pago.
 
 ## Tarea 7: día 12
 
@@ -101,9 +101,9 @@ Cada tarea indica el número de días que invertiremos en el aprendizaje y desar
 
 ## Tarea 8: día 13
 
-1.  Teoría de la arquitectura DDD (Domain Driver Desing).
-    a. Buscar todos los videos necesarios donde expliquen esto. ***A complementar por Alberto***.
+1. Teoría de la arquitectura DDD (Domain Driver Desing). 
+   1. Buscar todos los videos necesarios donde expliquen esto. ***A complementar por Alberto***.
 
-**Tarea 7: día 14 y día 15**
+## Tarea 9: día 14 y día 15
 
 1. Criterio del formador para refactorizar la arquitectura DDD o repasar temas que crea que no están suficientemente preparados. *Improvisar*
